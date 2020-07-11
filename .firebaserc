@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dict-f975f": {
+      "hosting": {
+        "my-app": [
+          "dict-f975f"
+        ]
+      }
+    }
+  }
+}
